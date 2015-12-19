@@ -1,0 +1,69 @@
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+c:\users\pancakefriday\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+\\Client\C$\Users\bahoward\Downloads\CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+I:\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+I:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+I:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+I:\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+I:\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+I:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+I:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+I:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+I:\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\PancakeFriday\Desktop\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+\\Client\C$\Users\bahoward\Downloads\BackUp CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\bahoward\Downloads\BackUp CharacterSheet\BackUp CharacterSheet\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.SpellTome.resources
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.frmDiceGenerator.resources
+C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\CharacterSheet.RaceSelection.resources
+\\Client\C$\Users\bahoward\Downloads\FinalProject\FinalProject\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+\\Client\C$\Users\bahoward\Downloads\FinalProject\FinalProject\CharacterSheet\obj\Debug\CharacterSheet.exe
+\\Client\C$\Users\bahoward\Downloads\FinalProject\FinalProject\CharacterSheet\obj\Debug\CharacterSheet.pdb

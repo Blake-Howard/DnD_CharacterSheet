@@ -1,0 +1,361 @@
+Acid Splash,211,0,Conjuration,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Aid,211,2,Abjuration,1 Action,n,y,y,y,n,30 feet,8 hours
+Alarm,211,1,Abjuration,1 Minute,y,y,y,y,n,30 feet,8 hours
+Alter Self,211,2,Transmutation,1 Action,n,y,y,n,y,Self,Up to 1 hour
+Animal Friendship,212,1,Enchantment,1 Action,n,y,y,y,n,30 feet,24 hours
+Animal Messenger,212,2,Enchantment,1 Action,y,y,y,y,n,30 feet,24 hours
+Animal Shapes,212,8,Transmutation,1 Action,n,y,y,n,y,30 feet,Up to 24 hours
+Animate Dead,212,3,Necromancy,1 Minute,n,y,y,y,n,10 feet,Instantaneous
+Animate Objects,213,5,Transmutation,1 Action,n,y,y,n,y,120 feet,up to 1 minute
+Antilife Shell,213,5,Abjuration,1 Action,n,y,y,n,y,Self (10-foot radius),up to 1 hour
+Antimagic Field,213,8,Abjuration,1 Action,n,y,y,y,y,Self (10-foot-radius sphere),up to 1 hour
+AntipathySympathy,214,8,Enchantment,1 Hour,n,y,y,y,n,60 feet,10 days
+Arcane Eye,214,4,Divination,1 Action,n,y,y,y,y,30 feet,up to 1 hour
+Arcane Gate,214,6,Conjuration,1 Action,n,y,y,n,y,500 feet,up to 10 minutes
+Arcane Lock,215,2,Abjuration,1 Action,n,y,y,y,n,Touch,Until dispelled
+Armor of Agathys,215,1,Abjuration,1 Action,n,y,y,y,n,Self,1 hour
+Arms of Hadar,215,1,Conjuration,1 Action,n,y,y,n,n,Sel f (10-foot radius),Instantaneous
+Astral Projection,215,9,Necromancy,1 Hour,n,y,y,y,n,10 feet,Special
+Augury,215,2,Divination,1 Minute,y,y,y,y,n,Self,Instantaneous
+Aura of Life,216,4,Abjuration,1 Action,n,y,n,n,y,Self (30-foot radius),up to 10 minutes
+Aura of Purity,216,4,Abjuration,1 Action,n,y,n,n,y,Self (30-foot radius),up to 10 minutes
+Aura of Vitality,216,3,Evocation,1 Action,n,y,n,n,y,Sel f (30-foot radius),up to 1 minute
+Awaken,216,5,Transmutation,8 Hours,n,y,y,y,n,Touch,Instantaneous
+Bane,216,1,Enchantment,1 Action,n,y,y,y,y,30 feet,up to 1 minute
+Banishing Smite,216,5,Abjuration,1 Bonus Action,n,y,n,n,y,Sel f,up to 1 minute
+Banishment,217,4,Abjuration,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Barkskin,217,2,Transmutation,1 Action,n,y,y,y,y,Touch,up to 1 hour
+Beacon of Hope,217,3,Abjuration,1 Action,n,y,y,n,y,30 feet,up to 1 minute
+Beast Sense,217,2,Divination,1 Action,y,n,y,n,y,Touch,up to 1 hour
+Bestow Curse,218,3,Necromancy,1 Action,n,y,y,n,y,Touch,up to 1 minute
+Bigby's Hand,218,5,Evocation,1 Action,n,y,y,y,y,120 feet,up to 1 minute
+Blade Barrier,218,6,Evocation,1 Action,n,y,y,n,y,90 feet,up to 10 minutes
+Blade Ward,218,0,Abjuration,1 Action,n,y,y,n,n,Self,1 round
+Bless,219,1,Enchantment,1 Action,n,y,y,y,y,30 feet,up to 1 minute
+Blight,219,4,Necromancy,1 Action,n,y,y,n,n,30 feet,Instantaneous
+Blinding Smite,219,3,Evocation,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+Blindness/Deafness,219,2,Necromancy,1 Action,n,y,n,n,n,30 feet,1 minute
+Blink,219,3,Transmutation,1 Action,n,y,y,n,n,Self,1 minute
+Blur,219,2,Illusion,1 Action,n,y,n,n,y,Self,up to 1 minute
+Branding Smite,219,2,Evocation,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+Burning Hands,220,1,Evocation,1 Action,n,y,y,n,n,Sel f (15-foot cone),Instantaneous
+Call Lightning,220,3,Conjuration,1 Action,n,y,y,n,y,120 feet,up to 10 minutes
+Calm Emotions,221,2,Enchantment,1 Action,n,y,y,n,y,60 feet,up to 1 minute
+Chain Lightning,221,6,Evocation,1 Action,n,y,y,y,n,150 feet,Instantaneous
+Charm Person,221,1,Enchantment,1 Action,n,y,y,n,n,30 feet,1 hour
+Chill Touch,221,0,Necromancy,1 Action,n,y,y,n,n,120 feet,1 round
+Chromatic Orb,221,1,Evocation,1 Action,n,y,y,y,n,90 feet,Instantaneous
+Circle of Death,221,6,Necromancy,1 Action,n,y,y,y,n,150 feet,Instantaneous
+Circle of Power,221,5,Abjuration,1 Action,n,y,n,n,y,Sel f (30-foot radius),up to 10 minutes
+Clairvoyance,222,3,Divination,10 Minutes,n,y,y,y,y,1 mile,up to 10 minutes
+Clone,222,8,Necromancy,1 Hour,n,y,y,y,n,Touch,Instantaneous
+Cloud of Daggers,222,2,Conjuration,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Cloudkill,222,5,Conjuration,1 Action,n,y,y,n,y,120 feet,up to 10 minutes
+Color Spray,222,1,Illusion,1 Action,n,y,y,y,n,S e l f (15-foot cone),1 round
+Command,223,1,Enchantment,1 Action,n,y,n,n,n,60 feet,1 round
+Commune,223,5,Divination,1 Minute,y,y,y,y,n,Self,1 minute
+Commune with Nature,224,5,Divination,1 Minute,y,y,y,n,n,Self,Instantaneous
+Compelled Duel,224,1,Enchantment,1 Bonus Action,n,y,n,n,y,30 feet,up to 1 minute
+Comprehend Languages,224,1,Divination,1 Action,y,y,y,y,n,Self,1 hour
+Compulsion,224,4,Enchantment,1 Action,n,y,y,n,y,30 feet,up to 1 minute
+Cone of Cold,224,5,Evocation,1 Action,n,y,y,y,n,Sel f (60-foot cone),Instantaneous
+Confusion,224,4,Enchantment,1 Action,n,y,y,y,y,90 feet,up to 1 minute
+Conjure Animals,225,3,Conjuration,1 Action,n,y,y,n,y,60 feet,up to 1 hour
+Conjure Barrage,225,3,Conjuration,1 Action,n,y,y,y,n,Self (60-foot cone),Instantaneous
+Conjure Celestial,225,7,Conjuration,1 Minute,n,y,y,n,y,90 feet,up to 1 hour
+Conjure Elemental,225,5,Conjuration,1 Minute,n,y,y,y,y,90 feet,up to 1 hour
+Conjure Fey,226,6,Conjuration,1 Minute,n,y,y,n,y,90 feet,up to 1 hour
+Conjure Minor Elementals,226,4,Conjuration,1 Minute,n,y,y,n,y,90 feet,up to 1 hour
+Conjure Volley,226,5,Conjuration,1 Action,n,y,y,y,n,150 feet,Instantaneous
+Conjure Woodland Beings,226,4,Conjuration,1 Action,n,y,y,y,y,60 feet,up to 1 hour
+Contact Other Plane,226,5,Divination,1 Minute,y,y,n,n,n,Self,1 minute
+Contagion,227,5,Necromancy,1 Action,n,y,y,n,n,Touch,7 days
+Contingency,227,6,Evocation,10 Minutes,n,y,y,y,n,Self,10 days
+Continual Flame,227,2,Evocation,1 Action,n,y,y,y,n,Touch,Until dispelled
+Control Water,227,4,Transmutation,1 Action,n,y,y,y,y,300 feet,up to 10 minutes
+Control Weather,228,8,Transmutation,10 Minutes,n,y,y,y,y,Self (5-mile radius),up to 8 hours
+Cordon of Arrows,228,2,Transmutation,1 Action,n,y,y,y,n,5 feet,8 hours
+Counterspell,228,3,Abjuration,Special,n,n,y,n,n,60 feet,Instantaneous
+Create Food and Water,229,3,Conjuration,1 Action,n,y,y,n,n,30 feet,Instantaneous
+Create or Destroy Water,229,1,Transmutation,1 Action,n,y,y,y,n,30 feet,Instantaneous
+Create Undead,229,6,Necromancy,1 Minute,n,y,y,y,n,10 feet,Instantaneous
+Creation,229,5,Illusion,1 Minute,n,y,y,y,n,30 feet,Special
+Crown of Madness,229,2,Enchantment,1 Action,n,y,y,n,y,120 feet,up to 1 minute
+Crusaders Mantle,230,3,Evocation,1 Action,n,y,n,n,y,Self,up to 1 minute
+Cure Wounds,230,1,Evocation,1 Action,n,y,y,n,n,Touch,Instantaneous
+Dancing Lights,230,0,Evocation,1 Action,n,y,y,y,y,120 feet,up to 1 minute
+Darkness,230,2,Evocation,1 Action,n,y,n,y,y,60 feet,up to 10 minutes
+Darkvision,230,2,Transmutation,1 Action,n,y,y,y,n,Touch,8 hours
+Daylight,230,3,Evocation,1 Action,n,y,y,n,n,60 feet,1 hour
+Death Ward,230,4,Abjuration,1 Action,n,y,y,n,n,Touch,8 hours
+Delayed Blast Fireball,230,7,Evocation,1 Action,n,y,y,y,y,150 feet,up to 1 minute
+Demiplane,231,8,Conjuration,1 Action,n,n,y,n,n,60 feet,1 hour
+Destructive Wave,231,5,Evocation,1 Action,n,y,n,n,n,Sel f (30-foot radius),Instantaneous
+Detect Evil and Good,231,1,Divination,1 Action,n,y,y,n,y,Self,up to 10 minutes
+Detect Magic,231,1,Divination,1 Action,y,y,y,n,y,Self,up to 10 minutes
+Detect Poison and Disease,231,1,Divination,1 Action,y,y,y,y,y,Self,up to 10 minutes
+Detect Thoughts,231,2,Divination,1 Action,n,y,y,y,y,Self,up to 1 minute
+Dimension Door,233,4,Conjuration,1 Action,n,y,n,n,n,500 feet,Instantaneous
+Disguise Self,233,1,Illusion,1 Action,n,y,y,n,n,Self,1 hour
+Disintegrate,233,6,Transmutation,1 Action,n,y,y,y,n,60 feet,Instantaneous
+Dispell Evil and Good,233,5,Abjuration,1 Action,n,y,y,y,y,Self,up to 1 minute
+Dispell Magic,234,3,Abjuration,1 Action,n,y,y,n,n,120 feet,Instantaneous
+Dissonate Whispers,234,1,Enchantment,1 Action,n,y,n,n,n,60 feet,Instantaneous
+Divination,234,4,Divination,1 Action,y,y,y,y,n,Self,Instantaneous
+Divine Favor,234,1,Evocation,1 Bonus Action,n,y,y,n,y,Self,up to 1 minute
+Divine Word,234,7,Evocation,1 Bonus Action,n,y,n,n,n,30 feet,Instantaneous
+Dominate Beast,234,4,Enchantment,1 Action,n,y,y,n,y,60 feet,up to 1 minute
+Dominate Monster,235,8,Enchantment,1 Action,n,y,y,n,y,60 feet,up to 1 hour
+Dominate Person,235,5,Enchantment,1 Action,n,y,y,n,y,60 feet,up to 1 minute
+Drawmij's Instant Summons,235,6,Conjuration,1 Minute,y,y,y,y,n,Touch,Until dispelled
+Dream,236,5,Illusion,1 Minute,n,y,y,y,n,Special,8 hours
+Druidcraft,236,0,Transmutation,1 Action,n,y,y,n,n,30 feet,Instantaneous
+Earthquake,236,8,Evocation,1 Action,n,y,y,y,y,500 feet,up to 1 minute
+Eldritch Blast,237,0,Evocation,1 Action,n,y,y,n,n,120 feet,Instantaneous
+Elemental Weapon,237,3,Transmutation,1 Action,n,y,y,n,y,Touch,up to 1 hour
+Enhance Ability,237,2,Transmutation,1 Action,n,y,y,y,y,Touch,up to 1 hour
+Enlarge/Reduce,237,2,Transmutation,1 Action,n,y,y,y,y,30 feet,up to 1 minute
+Ensnaring Strike,237,1,Conjuration,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+Entangle,238,1,Conjuration,1 Action,n,y,y,n,y,90 feet,up to 1 minute
+Enthrall,238,2,Enchantment,1 Action,n,y,y,n,n,60 feet,1 minute
+Etherealness,238,7,Transmutation,1 Action,n,y,y,n,n,Self,Up to 8 hours
+Evard's Black Tentacles,238,4,Conjuration,1 Action,n,y,y,y,y,90 feet,up to 1 minute
+Expeditious Retreat,238,1,Transmutation,1 Bonus Action,n,y,y,n,y,Self,up to 10 minutes
+Eyebite,238,6,Necromancy,1 Action,n,y,y,n,y,Self,up to 1 minute
+Fabricate,239,4,Transmutation,10 Minutes,n,y,y,n,n,120 feet,Instantaneous
+Faerie Fire,239,1,Evocation,1 Action,n,y,n,n,y,60 feet,up to 1 minute
+False Life,239,1,Necromancy,1 Action,n,y,y,y,n,Self,1 hour
+Fear,239,3,Illusion,1 Action,n,y,y,y,y,Sel f (30-foot cone),up to 1 minute
+Feather Fall,239,1,Transmutation,Special,n,y,n,y,n,60 feet,1 minute
+Feeble Mind,239,8,Enchantment,1 Action,n,y,y,y,n,150 feet,Instantaneous
+Feign Death,240,3,Necromancy,1 Action,y,y,y,y,n,Touch,1 hour
+Find Familiar,240,1,Conjuration,1 Hour,y,y,y,y,n,10 feet,Instantaneous
+Find Steed,240,2,Conjuration,10 Minutes,n,y,y,n,n,30 feet,Instantaneous
+Find the Path,240,6,Divination,1 Minute,n,y,y,y,y,Self,up to 1 day
+Find Traps,241,2,Divination,1 Action,n,y,y,n,n,120 feet,Instantaneous
+Finger of Death,241,7,Necromancy,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Fireball,241,3,Evocation,1 Action,n,y,y,y,n,150 feet,Instantaneous
+Fire Bolt,241,0,Evocation,1 Action,n,y,y,n,n,120 feet,Instantaneous
+Fire Shield,241,4,Evocation,1 Action,n,y,y,y,n,Self,10 minutes
+Fire Storm,241,7,Evocation,1 Action,n,y,y,n,n,150 feet,Instantaneous
+Flame Blade,242,2,Evocation,1 Bonus Action,n,y,y,y,y,Self,up to 10 minutes
+Flame Strike,242,5,Evocation,1 Action,n,y,y,y,n,60 feet,Instantaneous
+Flaming Sphere,242,2,Conjuration,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Flesh to Stone,243,6,Transmutation,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Fly,243,3,Transmutation,1 Action,n,y,y,y,y,Touch,up to 10 minutes
+Fog Cloud,243,1,Conjuration,1 Action,n,y,y,n,y,120 feet,up to 1 hour
+Forbiddance,243,6,Abjuration,10 Minutes,y,y,y,y,n,Touch,1 day
+Forcecage,243,7,Evocation,1 Action,n,y,y,y,n,100 feet,1 hour
+Foresight,244,9,Divination,1 Minute,n,y,y,y,n,Touch,8 hours
+Freedom of Movement,244,4,Abjuration,1 Action,n,y,y,y,n,Touch,1 hour
+Friends,244,0,Enchantment,1 Action,n,n,y,y,y,Self,up to 1 minute
+Gaseous Form,244,3,Transmutation,1 Action,n,y,y,y,y,Touch,up to 1 hour
+Gate,244,9,Conjuration,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Geas,245,5,Enchantment,1 Minute,n,y,n,n,n,60 feet,30 days
+Gentle Repose,245,2,Necromancy,1 Action,y,y,y,y,n,Touch,10 days
+Giant Insect,245,4,Transmutation,1 Action,n,y,y,n,y,30 feet,up to 10 minutes
+Glibness,245,8,Transmutation,1 Action,n,y,n,n,n,Self,1 hour
+Globe of Invulnerability,245,6,Abjuration,1 Action,n,y,y,y,y,Sel f (10-foot radius),up to 1 minute
+Glyph of Warding,245,3,Abjuration,1 Hour,n,y,y,y,n,Touch,Until dispelled or triggered
+Goodberry,246,1,Transmutation,1 Action,n,y,y,y,n,Touch,Instantaneous
+Grasping Vine,246,4,Conjuration,1 Bonus Action,n,y,y,n,y,30 feet,up to 1 minute
+Grease,246,1,Conjuration,1 Action,n,y,y,y,n,60 feet,1 minute
+Greater Invisibility,246,4,Illusion,1 Action,n,y,y,n,y,Touch,up to 1 minute
+Greater Restoration,246,5,Abjuration,1 Action,n,y,y,y,n,Touch,Instantaneous
+Guardian of Faith,246,4,Conjuration,1 Action,n,y,n,n,n,30 feet,8 hours
+Guards and Wards,248,6,Abjuration,10 Minutes,n,y,y,y,n,Touch,24 hours
+Guidance,248,0,Divination,1 Action,n,y,y,n,n,Touch,up to 1 minute
+Guiding Bolt,248,1,Evocation,1 Action,n,y,y,n,n,120 feet,1 round
+Gust of Wind,248,2,Evocation,1 Action,n,y,y,y,y,Sel f (60-foot line),up to 1 minute
+Hail of Thorns,249,1,Conjuration,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+Hallow,249,5,Evocation,24 Hours,n,y,y,y,n,Touch,Until dispelled
+Hallucinatory Terrain,249,4,Illusion,10 Minutes,n,y,y,y,n,300 feet,24 hours
+Harm,249,6,Necromancy,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Haste,250,3,Transmutation,1 Action,n,y,y,y,y,30 feet,up to 1 minute
+Heal,250,6,Evocation,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Healing Word,250,1,Evocation,1 Bonus Action,n,y,n,n,n,60 feet,Instantaneous
+Heat Metal,250,2,Transmutation,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Hellish Rebuke,250,1,Evocation,Special,n,y,y,n,n,60 feet,Instantaneous
+Heroes' Feast,251,6,Conjuration,10 Minutes,n,y,y,y,n,30 feet,Instantaneous
+Heroism,250,1,Enchantment,1 Action,n,y,y,n,y,Touch,up to 1 minute
+Hex,251,1,Enchantment,1 Bonus Action,n,y,y,y,y,90 feet,up to 1 hour
+Hold Monster,251,5,Enchantment,1 Action,n,y,y,y,y,90 feet,up to 1 minute
+Hold Person,251,2,Enchantment,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Holy Aura,251,8,Abjuration,1 Action,n,y,y,y,y,Self,up to 1 minute
+Hunger of Hadar,251,3,Conjuration,1 Action,n,y,y,y,y,150 feet,up to 1 minute
+Hunter's Mark,251,1,Divination,1 Bonus Action,n,y,n,n,y,90 feet,up to 1 hour
+Hypnotic Pattern,252,3,Illusion,1 Action,n,n,y,y,y,120 feet,up to 1 minute
+Ice Storm,252,4,Evocation,1 Action,n,y,y,y,n,300 feet,Instantaneous
+Identify,252,1,Divination,1 Minute,y,y,y,y,n,Touch,Instantaneous
+Illusory Script,252,1,Illusion,1 Minute,y,n,y,y,n,Touch,10 days
+Imprisonment,252,9,Abjuration,1 Minute,n,y,y,y,n,30 feet,Until dispelled
+Incendiary Cloud,253,8,Conjuration,1 Action,n,y,y,n,y,150 feet,up to 1 minute
+Inflict Wounds,253,1,Necromancy,1 Action,n,y,y,n,n,Touch,Instantaneous
+Insect Plague,254,5,Conjuration,1 Action,n,y,y,y,y,300 feet,up to 10 minutes
+Invisibility,254,2,Illusion,1 Action,n,y,y,y,y,Touch,up to 1 hour
+Jump,254,1,Transmutation,1 Action,n,y,y,y,n,Touch,1 minute
+Knock,254,2,Transmutation,1 Action,n,y,n,n,n,60 feet,Instantaneous
+Legend Lore,254,5,Divination,10 Minutes,n,y,y,y,n,Self,Instantaneous
+Leomund's Secret Chest,254,4,Conjuration,1 Action,n,y,y,y,n,Touch,Instantaneous
+Leomund's Tiny Hut,255,3,Evocation,1 Minute,y,y,y,y,n,Sel f (10-foot-radius hemisphere),8 hours
+Lesser Restoration,255,2,Abjuration,1 Action,n,y,y,n,n,Touch,Instantaneous
+Levitate,255,2,Transmutation,1 Action,n,y,y,y,y,60 feet,up to 10 minutes
+Light,255,0,Evocation,1 Action,n,y,n,y,n,Touch,1 hour
+Lightning Arrow,255,3,Transmutation,1 Bonus Action,n,y,y,n,y,Self,up to 1 minute
+Lightning Bolt,255,3,Evocation,1 Action,n,y,y,y,n,Sel f (100-foot line),Instantaneous
+Locate Animals or Plants,256,2,Divination,1 Action,y,y,y,y,n,Self,Instantaneous
+Locate Creature,256,4,Divination,1 Action,n,y,y,y,y,Self,up to 1 hour
+Locate Object,256,2,Divination,1 Action,n,y,y,y,y,Self,up to 10 minutes
+Longstrider,256,1,Transmutation,1 Action,n,y,y,y,n,Touch,1 hour
+Mage Armor,256,1,Abjuration,1 Action,n,y,y,y,n,Touch,8 hours
+Mage Hand,256,0,Conjuration,1 Action,n,y,y,n,n,30 feet,1 minute
+Magic Circle,256,3,Abjuration,1 Minute,n,y,y,y,n,10 feet,1 hour
+Magic Jar,257,6,Necromancy,1 Minute,n,y,y,y,n,Self,Until dispelled
+Magic Missile,257,1,Evocation,1 Action,n,y,y,n,n,120 feet,Instantaneous
+Magic Mouth,257,2,Illusion,1 Minute,y,y,y,y,n,30 feet,Until dispelled
+Magic Weapon,257,2,Transmutation,1 Bonus Action,n,y,y,n,y,Touch,up to 1 hour
+Major Image,258,3,Illusion,1 Action,n,y,y,y,y,120 feet,up to 10 minutes
+Mass Cure Wounds,258,5,Conjuration,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Mass Heal,258,9,Conjuration,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Mass Healing Word,258,3,Evocation,1 Bonus Action,n,y,n,n,n,60 feet,Instantaneous
+Mass Suggestion,258,6,Enchantment,1 Action,n,y,n,y,n,60 feet,24 hours
+Maze,258,8,Conjuration,1 Action,n,y,y,n,y,60 feet,up to 10 minutes
+Meld into Stone,259,3,Transmutation,1 Action,y,y,y,n,n,Touch,8 hours
+Melf's Acid Arrow,259,2,Evocation,1 Action,n,y,y,y,n,90 feet,Instantaneous
+Mending,259,0,Transmutation,1 Minute,n,y,y,y,n,Touch,Instantaneous
+Message,259,0,Transmutation,1 Action,n,y,y,y,n,120 feet,1 round
+Meteor Swarm,259,9,Evocation,1 Action,n,y,y,n,n,1 mile,Instantaneous
+Mind Blank,259,8,Abjuration,1 Action,n,y,y,n,n,Touch,24 hours
+Minor Illusion,260,0,Illusion,1 Action,n,n,y,y,n,30 feet,1 minute
+Mirage Arcane,260,7,Illusion,10 Minutes,n,y,y,n,n,Sight,10 days
+Mirror Image,260,2,Illusion,1 Action,n,y,y,n,n,Self,1 minute
+Mislead,260,5,Illusion,1 Action,n,n,y,n,y,Self,up to 1 hour
+Misty Step,260,2,Conjuration,1 Bonus Action,n,y,n,n,n,Self,Instantaneous
+Modify Memory,261,5,Enchantment,1 Action,n,y,y,n,y,30 feet,up to 1 minute
+Moonbeam,261,2,Evocation,1 Action,n,y,y,y,y,120 feet,up to 1 minute
+Mordenkainen's Faithful Hound,261,4,Conjuration,1 Action,n,y,y,y,n,30 feet,8 hours
+Mordenkainen's Magnificent Mansion,261,7,Conjuration,1 Minute,n,y,y,y,n,300 feet,24 hours
+Mordenkainen's Private Sanctum,262,4,Abjuration,10 Minutes,n,y,y,y,n,120 feet,24 hours
+Mordenkainen's Sword,262,7,Evocation,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Move Earth,263,6,Transmutation,1 Action,n,y,y,y,y,120 feet,up to 2 hours
+Nondetection,263,3,Abjuration,1 Action,n,y,y,y,n,Touch,8 hours
+Nystul's Magic Aura,263,2,Illusion,1 Action,n,y,y,y,n,Touch,24 hours
+Otiluke's Freezing Sphere,263,6,Evocation,1 Action,n,y,y,y,n,300 feet,Instantaneous
+Otiluke's Resilient Sphere,264,4,Evocation,1 Action,n,y,y,y,y,30 feet,up to 1 minute
+Otto's Irresistable Dance,264,6,Enchantment,1 Action,n,y,n,n,y,30 feet,up to 1 minute
+Pass without Trace,264,2,Abjuration,1 Action,n,y,y,y,y,Self,up to 1 hour
+Passwall,264,5,Transmutation,1 Action,n,y,y,y,n,30 feet,1 hour
+Phantasmal Force,264,2,Illusion,1 Action,n,y,y,y,y,60 feet,up to 1 minute
+Phantasmal Killer,265,4,Illusion,1 Action,n,y,y,n,y,120 feet,up to 1 minute
+Phantom Steed,265,3,Illusion,1 Minute,y,y,y,n,n,30 feet,1 hour
+Planar Ally,265,6,Conjuration,10 Minutes,n,y,y,n,n,60 feet,Instantaneous
+Planar Binding,265,5,Abjuration,1 Hour,n,y,y,y,n,60 feet,24 hours
+Plane Shift,266,7,Conjuration,1 Action,n,y,y,y,n,Touch,Instantaneous
+Plant Growth,266,3,Transmutation,Special,n,y,y,n,n,150 feet,Instantaneous
+Poison Spray,266,0,Conjuration,1 Action,n,y,y,n,n,10 feet,Instantaneous
+Polymorph,266,4,Transmutation,1 Action,n,y,y,y,y,60 feet,up to 1 hour
+Power Word Heal,266,9,Evocation,1 Action,n,y,y,n,n,Touch,Instantaneous
+Power Word Kill,266,9,Enchantment,1 Action,n,y,n,n,n,60 feet,Instantaneous
+Power Word Stun,267,8,Enchantment,1 Action,n,y,n,n,n,60 feet,Instantaneous
+Prayer of Healing,267,2,Evocation,10 Minutes,n,y,n,n,n,30 feet,Instantaneous
+Prestidigitation,267,0,Transmutation,1 Action,n,y,y,n,n,10 feet,Up to 1 hour
+Prismatic Spray,267,7,Evocation,1 Action,n,y,y,n,n,Sel f (60-foot cone),Instantaneous
+Prismatic Wall,267,9,Abjuration,1 Action,n,y,y,n,n,60 feet,10 minutes
+Produce Flame,269,0,Conjuration,1 Action,n,y,y,n,n,Self,10 minutes
+Programmed Illusion,269,6,Illusion,1 Action,n,y,y,y,n,120 feet,Until dispelled
+Project Image,270,7,Illusion,1 Action,n,y,y,y,y,500 miles,up to 1 day
+Protection from Energy,270,3,Abjuration,1 Action,n,y,y,n,y,Touch,up to 1 hour
+Protection from Evil and Good,270,1,Abjuration,1 Action,n,y,y,y,y,Touch,10 minutes
+Protection from Poison,270,2,Abjuration,1 Action,n,y,y,n,n,Touch,1 hour
+Purify Food and Drink,270,1,Transmutation,1 Action,y,y,y,n,n,10 feet,Instantaneous
+Raise Dead,270,5,Necromancy,1 Hour,n,y,y,y,n,Touch,Instantaneous
+Rary's Telepathic Bond,270,5,Divination,1 Action,y,y,y,y,n,30 feet,1 hour
+Ray of Enfeeblement,271,2,Necromancy,1 Action,n,y,y,n,y,60 feet,up to 1 minute
+Ray of Frost,271,0,Evocation,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Ray of Sickness,271,1,Necromancy,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Regenerate,271,7,Transmutation,1 Minute,n,y,y,y,n,Touch,1 hour
+Reincarnate,271,5,Transmutation,1 Hour,n,y,y,y,n,Touch,Instantaneous
+Remove Curse,271,3,Abjuration,1 Action,n,y,y,n,n,Touch,Instantaneous
+Resistance,272,0,Abjuration,1 Action,n,y,y,y,y,Touch,up to 1 minute
+Resurrection,272,7,Necromancy,1 Hour,n,y,y,y,n,Touch,Instantaneous
+Reverse Gravity,272,7,Transmutation,1 Action,n,y,y,y,y,100 feet,up to 1 minute
+Revivify,272,3,Conjuration,1 Action,n,y,y,y,n,Touch,Instantaneous
+Rope Trick,272,2,Transmutation,1 Action,n,y,y,y,n,Touch,1 hour
+Sacred Flame,272,0,Evocation,1 Action,n,y,y,n,n,60 feet,Instantaneous
+Sanctuary,272,1,Abjuration,1 Bonus Action,n,y,y,y,n,30 feet,1 minute
+Scorching Ray,273,2,Evocation,1 Action,n,y,y,n,n,120 feet,Instantaneous
+Scrying,273,5,Divination,10 Minutes,n,y,y,y,y,Self,up to 10 minutes
+Searing Smite,274,1,Evocation,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+See Invisibility,274,2,Divination,1 Action,n,y,y,y,n,Self,1 hour
+Seeming,274,5,Illusion,1 Action,n,y,y,n,n,30 feet,8 hours
+Sending,274,3,Evocation,1 Action,n,y,y,y,n,Unlimited,1 round
+Sequester,274,7,Transmutation,1 Action,n,y,y,y,n,Touch,Until dispelled
+Shapechange,274,9,Transmutation,1 Action,n,y,y,y,y,Self,up to 1 hour
+Shatter,275,2,Evocation,1 Action,n,y,y,y,n,60 feet,Instantaneous
+Shield,275,1,Abjuration,Special,n,y,y,n,n,Self,1 round
+Shield of Faith,275,1,Abjuration,1 Bonus Action,n,y,y,y,y,60 feet,up to 10 minutes
+Shillelagh,275,0,Transmutation,1 Bonus Action,n,y,y,y,n,Touch,1 minute
+Shocking Grasp,275,0,Evocation,1 Action,n,y,y,n,n,Touch,Instantaneous
+Silence,275,2,Illusion,1 Action,y,y,y,n,y,120 feet,up to 10 minutes
+Silent Image,276,1,Illusion,1 Action,n,y,y,y,y,60 feet,up to 10 minutes
+Simulacrum,276,7,Illusion,12 Hours,n,y,y,y,n,Touch,Until dispelled
+Sleep,276,1,Enchantment,1 Action,n,y,y,y,n,90 feet,1 minute
+Sleet Storm,276,3,Conjuration,1 Action,n,y,y,y,y,150 feet,up to 1 minute
+Slow,277,3,Transmutation,1 Action,n,y,y,y,y,120 feet,up to 1 minute
+Spare the Dying,277,0,Necromancy,1 Action,n,y,y,n,n,Touch,Instantaneous
+Speak with Animals,277,1,Divination,1 Action,y,y,y,n,n,Self,10 minutes
+Speak with Dead,277,3,Necromancy,1 Action,n,y,y,y,n,10 feet,10 minutes
+Speak with Plants,277,3,Transmutation,1 Action,n,y,y,n,n,Sel f (30-foot radius),10 minutes
+Spider Climb,277,2,Transmutation,1 Action,n,y,y,y,y,Touch,up to 1 hour
+Spike Growth,277,2,Transmutation,1 Action,n,y,y,y,y,150 feet,up to 10 minutes
+Spirit Guardians,278,3,Conjuration,1 Action,n,y,y,y,y,Sel f (15-foot radius),up to 10 minutes
+Spiritual Weapon,278,2,Evocation,1 Bonus Action,n,y,y,n,n,60 feet,1 minute
+Staggering Smite,278,4,Evocation,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+Stinking Cloud,278,3,Conjuration,1 Action,n,y,y,y,y,90 feet,up to 1 minute
+Stone Shape,278,4,Transmutation,1 Action,n,y,y,y,n,Touch,Instantaneous
+Stoneskin,278,4,Abjuration,1 Action,n,y,y,y,y,Touch,up to 1 hour
+Storm of Vengeance,279,9,Conjuration,1 Action,n,y,y,n,y,Sight,up to 1 minute
+Suggestion,279,2,Enchantment,1 Action,n,y,n,y,y,30 feet,up to 8 hours
+Sunbeam,279,6,Evocation,1 Action,n,y,y,y,y,Sel f (60-foot line),up to 1 minute
+Sunburst,279,8,Evocation,1 Action,n,y,y,y,n,150 feet,Instantaneous
+Swift Quiver,279,5,Transmutation,1 Bonus Action,n,y,y,y,y,Touch,up to 1 minute
+Symbol,280,7,Abjuration,1 Minute,n,y,y,y,n,Touch,Until dispelled or triggered
+Tasha's Hideous Laughter,280,1,Enchantment,1 Action,n,y,y,y,y,30 feet,"Concentration, up to 1 minute"
+Telekinesis,280,5,Transmutation,1 Action,n,y,y,n,y,60 feet,up to 10 minutes
+Telepathy,281,8,Evocation,1 Action,n,y,y,y,n,Unlimited,24 hours
+Teleport,281,7,Conjuration,1 Action,n,y,n,n,n,10 feet,Instantaneous
+Teleporation Circle,281,5,Conjuration,1 Minute,n,y,n,y,n,10 feet,1 round
+Tenser's Floating Disk,282,1,Conjuration,1 Action,y,y,y,y,n,30 feet,1 hour
+Thaumaturgy,282,0,Transmutation,1 Action,n,y,n,n,n,30 feet,Up to 1 minute
+Thorn Whip,282,0,Transmutation,1 Action,n,y,y,y,n,30 feet,Instantaneous
+Thunderous Smite,282,1,Evocation,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+Thunderwave,282,1,Evocation,1 Action,n,y,y,n,n,Self (15-foot cube),Instantaneous
+Time Stop,283,9,Transmutation,1 Action,n,y,n,n,n,Self,Instantaneous
+Tongues,283,3,Divination,1 Action,n,y,n,y,n,Touch,1 hour
+Transport via Plants,283,6,Conjuration,1 Action,n,y,y,n,n,10 feet,1 round
+Tree Stride,283,5,Conjuration,1 Action,n,y,y,n,y,Self,up to 1 minute
+True Polymorph,283,9,Transmutation,1 Action,n,y,y,y,y,30 feet,up to 1 hour
+True Resurrection,284,9,Necromancy,1 Hour,n,y,y,y,n,Touch,Instantaneous
+True Seeing,284,6,Divination,1 Action,n,y,y,y,n,Touch,1 hour
+True Strike,284,0,Divination,1 Action,n,n,y,n,y,30 feet,up to 1 round
+Tsunami,284,8,Conjuration,1 Minute,n,y,y,n,y,Sight,up to 6 rounds
+Unseen Servant,284,1,Conjuration,1 Action,y,y,y,y,n,60 feet,1 hour
+Vampiric Touch,285,3,Necromancy,1 Action,n,y,y,n,y,Self,up to 1 minute
+Vicious Mockery,285,0,Enchantment,1 Action,n,y,n,n,n,60 feet,Instantaneous
+Wall of Fire,285,4,Evocation,1 Action,n,y,y,y,y,120 feet,up to 1 minute
+Wall of Force,285,5,Evocation,1 Action,n,y,y,y,y,120 feet,up to 10 minutes
+Wall of Ice,285,6,Evocation,1 Action,n,y,y,y,y,120 feet,up to 10 minutes
+Wall of Stone,287,5,Evocation,1 Action,n,y,y,y,y,120 feet,up to 10 minutes
+Wall of Thorns,287,6,Conjuration,1 Action,n,y,y,y,y,120 feet,up to 10 minutes
+Warding Bond,287,2,Abjuration,1 Action,n,y,y,y,n,Touch,1 hour
+Water Breathing,287,3,Transmutation,1 Action,y,y,y,y,n,30 feet,24 hours
+Water Walk,287,3,Transmutation,1 Action,y,y,y,y,n,30 feet,1 hour
+Web,287,2,Conjuration,1 Action,n,y,y,y,y,60 feet,up to 1 hour
+Weird,288,9,Illusion,1 Action,n,y,y,n,y,120 feet,up to one minute
+Wind Walk,288,6,Transmutation,1 Minute,n,y,y,y,n,30 feet,8 hours
+Wind Wall,288,3,Evocation,1 Action,n,y,y,y,y,120 feet,up to 1 minute
+Wish,288,9,Conjuration,1 Action,n,y,n,n,n,Self,Instantaneous
+Witch Bolt,289,1,Evocation,1 Action,n,y,y,y,y,30 feet,up to 1 minute
+Word of Recall,289,6,Conjuration,1 Action,n,y,n,n,n,5 feet,Instantaneous
+Wrathful Smite,289,1,Evocation,1 Bonus Action,n,y,n,n,y,Self,up to 1 minute
+Zone of Truth,289,2,Enchantment,1 Action,n,y,y,n,n,60 feet,10 minutes
