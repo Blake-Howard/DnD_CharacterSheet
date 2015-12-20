@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Str>20</Str>
+  <Dex>15</Dex>
+  <Con>13</Con>
+  <Intel>12</Intel>
+  <Wis>11</Wis>
+  <Cha>10</Cha>
+  <Xp>20000</Xp>
+  <Hpmax />
+  <Hpcurrent />
+  <Hptemp />
+  <Hitdie />
+  <Maxhitdie />
+  <Curhitdie />
+  <Armor>Leather</Armor>
+  <Armormisc>2</Armormisc>
+  <Languages>Elven, Dwarvish</Languages>
+  <Gear />
+  <Proficiencies />
+  <Shield>true</Shield>
+  <AcrobaticsExp>false</AcrobaticsExp>
+  <AnimalhandExp>false</AnimalhandExp>
+  <ArcanaExp>false</ArcanaExp>
+  <AthleticsExp>false</AthleticsExp>
+  <DeceptionExp>false</DeceptionExp>
+  <HistoryExp>false</HistoryExp>
+  <InsightExp>false</InsightExp>
+  <IntimidationExp>true</IntimidationExp>
+  <InvestigationExp>false</InvestigationExp>
+  <MedicineExp>false</MedicineExp>
+  <NatureExp>false</NatureExp>
+  <PerformanceExp>false</PerformanceExp>
+  <PersuasionExp>false</PersuasionExp>
+  <ReligionExp>false</ReligionExp>
+  <SleightExp>false</SleightExp>
+  <StealthExp>false</StealthExp>
+  <SurvivalExp>false</SurvivalExp>
+  <AcrobaticsProf>true</AcrobaticsProf>
+  <AnimalhandProf>false</AnimalhandProf>
+  <ArcanaProf>false</ArcanaProf>
+  <AthleticsProf>false</AthleticsProf>
+  <DeceptionProf>false</DeceptionProf>
+  <HistoryProf>false</HistoryProf>
+  <InsightProf>false</InsightProf>
+  <IntimidationProf>true</IntimidationProf>
+  <InvestigationProf>false</InvestigationProf>
+  <MedicineProf>false</MedicineProf>
+  <NatureProf>false</NatureProf>
+  <PerformanceProf>false</PerformanceProf>
+  <PersuasionProf>false</PersuasionProf>
+  <ReligionProf>false</ReligionProf>
+  <SleightProf>false</SleightProf>
+  <StealthProf>false</StealthProf>
+  <SurvivalProf>true</SurvivalProf>
+  <Jackofall>true</Jackofall>
+  <Inspiration>false</Inspiration>
+  <Deathpass1>true</Deathpass1>
+  <Deathpass2>true</Deathpass2>
+  <Deathpass3>false</Deathpass3>
+  <Deathfail1>false</Deathfail1>
+  <Deathfail2>false</Deathfail2>
+  <Deathfail3>false</Deathfail3>
+</SaveData>

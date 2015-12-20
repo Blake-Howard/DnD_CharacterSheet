@@ -124,7 +124,7 @@ namespace CharacterSheet
 
                 else if (first != "")
                 {
-                    sb.Append(values[1]);
+                    sb.Append(first);
                     sb.Append(" \r\n ");
                 }
             }

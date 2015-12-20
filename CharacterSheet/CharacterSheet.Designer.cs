@@ -162,7 +162,6 @@
             this.txtMaxHP = new System.Windows.Forms.TextBox();
             this.lblHPMax = new System.Windows.Forms.Label();
             this.grpInspiration = new System.Windows.Forms.GroupBox();
-            this.txtInpirationPoints = new System.Windows.Forms.TextBox();
             this.lblInspiration = new System.Windows.Forms.Label();
             this.grpDeath = new System.Windows.Forms.GroupBox();
             this.chkDeathFail2 = new System.Windows.Forms.CheckBox();
@@ -182,6 +181,9 @@
             this.lblProficiencies = new System.Windows.Forms.Label();
             this.lblGear = new System.Windows.Forms.Label();
             this.btnClose = new System.Windows.Forms.Button();
+            this.btnSave = new System.Windows.Forms.Button();
+            this.chkInspiration = new System.Windows.Forms.CheckBox();
+            this.btnLoad = new System.Windows.Forms.Button();
             this.grpStats.SuspendLayout();
             this.grpAbilities.SuspendLayout();
             this.grpExperience.SuspendLayout();
@@ -1372,7 +1374,6 @@
             this.txtMiscAC.Name = "txtMiscAC";
             this.txtMiscAC.Size = new System.Drawing.Size(26, 20);
             this.txtMiscAC.TabIndex = 40;
-            this.txtMiscAC.Text = ".";
             this.txtMiscAC.TextChanged += new System.EventHandler(this.txtMiscAC_TextChanged);
             // 
             // lblMiscAC
@@ -1557,7 +1558,7 @@
             // 
             // grpInspiration
             // 
-            this.grpInspiration.Controls.Add(this.txtInpirationPoints);
+            this.grpInspiration.Controls.Add(this.chkInspiration);
             this.grpInspiration.Controls.Add(this.lblInspiration);
             this.grpInspiration.Location = new System.Drawing.Point(239, 275);
             this.grpInspiration.Name = "grpInspiration";
@@ -1566,21 +1567,14 @@
             this.grpInspiration.TabStop = false;
             this.grpInspiration.Text = "Inspiration";
             // 
-            // txtInpirationPoints
-            // 
-            this.txtInpirationPoints.Location = new System.Drawing.Point(189, 17);
-            this.txtInpirationPoints.Name = "txtInpirationPoints";
-            this.txtInpirationPoints.Size = new System.Drawing.Size(20, 20);
-            this.txtInpirationPoints.TabIndex = 14;
-            // 
             // lblInspiration
             // 
             this.lblInspiration.AutoSize = true;
             this.lblInspiration.Location = new System.Drawing.Point(6, 21);
             this.lblInspiration.Name = "lblInspiration";
-            this.lblInspiration.Size = new System.Drawing.Size(132, 13);
+            this.lblInspiration.Size = new System.Drawing.Size(61, 13);
             this.lblInspiration.TabIndex = 13;
-            this.lblInspiration.Text = "Current Inspirations Points:";
+            this.lblInspiration.Text = "Inspiration :";
             // 
             // grpDeath
             // 
@@ -1747,7 +1741,7 @@
             // 
             // btnClose
             // 
-            this.btnClose.Location = new System.Drawing.Point(327, 677);
+            this.btnClose.Location = new System.Drawing.Point(237, 677);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(84, 31);
             this.btnClose.TabIndex = 18;
@@ -1755,11 +1749,43 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
+            // btnSave
+            // 
+            this.btnSave.Location = new System.Drawing.Point(327, 677);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(84, 31);
+            this.btnSave.TabIndex = 19;
+            this.btnSave.Text = "Save";
+            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            // 
+            // chkInspiration
+            // 
+            this.chkInspiration.AutoSize = true;
+            this.chkInspiration.Location = new System.Drawing.Point(77, 21);
+            this.chkInspiration.Name = "chkInspiration";
+            this.chkInspiration.Size = new System.Drawing.Size(15, 14);
+            this.chkInspiration.TabIndex = 58;
+            this.chkInspiration.UseVisualStyleBackColor = true;
+            // 
+            // btnLoad
+            // 
+            this.btnLoad.Location = new System.Drawing.Point(147, 677);
+            this.btnLoad.Name = "btnLoad";
+            this.btnLoad.Size = new System.Drawing.Size(84, 31);
+            this.btnLoad.TabIndex = 20;
+            this.btnLoad.Text = "Load";
+            this.btnLoad.UseVisualStyleBackColor = true;
+            this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
+            // 
             // frmCharacterSheet
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(465, 713);
+            this.Controls.Add(this.btnLoad);
+            this.Controls.Add(this.btnSave);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.lblGear);
             this.Controls.Add(this.lblProficiencies);
@@ -1942,7 +1968,6 @@
         private System.Windows.Forms.TextBox txtMaxHP;
         private System.Windows.Forms.Label lblHPMax;
         private System.Windows.Forms.GroupBox grpInspiration;
-        private System.Windows.Forms.TextBox txtInpirationPoints;
         private System.Windows.Forms.Label lblInspiration;
         private System.Windows.Forms.GroupBox grpDeath;
         private System.Windows.Forms.CheckBox chkDeathFail2;
@@ -1962,6 +1987,9 @@
         private System.Windows.Forms.Label lblProficiencies;
         private System.Windows.Forms.Label lblGear;
         private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.CheckBox chkInspiration;
+        private System.Windows.Forms.Button btnLoad;
     }
 }
 

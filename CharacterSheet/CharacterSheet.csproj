@@ -32,6 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -50,6 +51,12 @@
     <Compile Include="CharacterSheet.Designer.cs">
       <DependentUpon>CharacterSheet.cs</DependentUpon>
     </Compile>
+    <Compile Include="CreateSaveName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateSaveName.Designer.cs">
+      <DependentUpon>CreateSaveName.cs</DependentUpon>
+    </Compile>
     <Compile Include="RaceSelection.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +71,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaveData.cs" />
+    <Compile Include="SaveXML.cs" />
     <Compile Include="Spell.cs" />
     <Compile Include="SpellTome.cs">
       <SubType>Form</SubType>
@@ -73,6 +82,9 @@
     </Compile>
     <EmbeddedResource Include="CharacterSheet.resx">
       <DependentUpon>CharacterSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateSaveName.resx">
+      <DependentUpon>CreateSaveName.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RaceSelection.resx">
       <DependentUpon>RaceSelection.cs</DependentUpon>

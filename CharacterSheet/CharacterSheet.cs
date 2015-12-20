@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using System.Xml.Serialization;
 
 namespace CharacterSheet
 {
@@ -62,9 +64,9 @@ namespace CharacterSheet
 
         /******************
          * The folling reset<mod>scores() methods reset their scores to zero,
-         * then read all of the checked checkboxes using the checkChecked() method.
+         * then reads all of the checked checkboxes using the checkChecked() method.
          * after the skill scores check boxes have been added, makeMod() is used to 
-         * generat the modification for the Main Stat. It is then added to the scores as well.
+         * generate the modification for the Main Stat. It is then added to the scores as well.
          * There are 6, for each of the main stats. ModAdd() is used to create the final scores.
          */
 
@@ -1027,6 +1029,7 @@ namespace CharacterSheet
             }
         }
 
+        //Changes dex score based on Dex mod. 
         private void changeInitiative()
         {
             int dexMod = Convert.ToInt32(lblDexMod.Text);
@@ -1043,6 +1046,9 @@ namespace CharacterSheet
             
         }
 
+        /***************************
+        * Clear text boxes when clicked
+        ****************************/
         private void txtStr_Enter(object sender, EventArgs e)
         {
             txtStr.Text = "";
@@ -1073,6 +1079,12 @@ namespace CharacterSheet
             txtCha.Text = "";
         }
 
+        /**************************************
+        * Many armors in the game add the dex mod to 
+        * a base number to calculate armor class (AC). 
+        * Many have a max limit of 2 added to the base armor
+        * This function creates that limit
+        ***************************************/
         private string armorDexMax()
         {
             int dex = Convert.ToInt32(lblDexMod.Text);
@@ -1088,6 +1100,7 @@ namespace CharacterSheet
             }
         }
 
+        //Calculates armor class based on the string selected
         private void resetAC()
         {
             if (cmbArmor.SelectedItem == null)
@@ -1159,11 +1172,13 @@ namespace CharacterSheet
                 }
             }
 
+            //Adding 2 to AC for shield
             if (chkShield.Checked)
             {
                 lblAC.Text = modAdd(lblAC.Text, "2");
             }
 
+            //This allows for misc additions to AC
             int num;
             Boolean attempt = int.TryParse(txtMiscAC.Text, out num);
             if (attempt)
@@ -1171,6 +1186,8 @@ namespace CharacterSheet
                 lblAC.Text = modAdd(lblAC.Text, Convert.ToString(num));
             }
         }
+
+        //Recalculating AC when certain boxes are changed
 
         private void cmbArmor_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -1187,6 +1204,7 @@ namespace CharacterSheet
             resetAC();
         }
 
+        //Opening new forms for different buttons. 
         private void btnSpellTome_Click(object sender, EventArgs e)
         {
             SpellTome newSpellTome = new SpellTome();
@@ -1208,6 +1226,183 @@ namespace CharacterSheet
         private void btnClose_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        string input = "";
+
+        /********************************************************
+        * Save button feature. Saves the file as an xml file in the local directory
+        *********************************************************/
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            input = Microsoft.VisualBasic.Interaction.InputBox("Enter your character's name. This will be the name of the save file.", "Save As...", input, 0, 0);
+            if (input == "") { }
+            else {
+                input.Trim();
+                try
+                {
+                    SaveData data = new SaveData();
+                    data.Str = txtStr.Text;
+                    data.Dex = txtDex.Text;
+                    data.Con = txtCon.Text;
+                    data.Intel = txtInt.Text;
+                    data.Wis = txtWis.Text;
+                    data.Cha = txtCha.Text;
+
+                    data.Xp = txtExperience.Text;
+                    data.Hpmax = txtMaxHP.Text;
+                    data.Hpcurrent = txtCurrentHP.Text;
+                    data.Hptemp = txtTemporaryHP.Text;
+                    data.Hitdie = txtHitDie.Text;
+                    data.Maxhitdie = txtMaxHitDice.Text;
+                    data.Curhitdie = txtCurrentHitDice.Text;
+
+                    if (cmbDCSave.SelectedItem != null) data.Caststat = cmbDCSave.SelectedItem.ToString().Trim();
+                    if (cmbArmor.SelectedItem != null) data.Armor = cmbArmor.SelectedItem.ToString().Trim();
+                    data.Armormisc = txtMiscAC.Text;
+                    data.Languages = txtLanguages.Text;
+                    data.Gear = txtGear.Text;
+                    data.Proficiencies = txtProficiencies.Text;
+
+                    data.Shield = chkShield.Checked;
+
+                    data.AcrobaticsExp = chkAcrobaticsExp.Checked;
+                    data.AnimalhandExp = chkAnimalHandExp.Checked;
+                    data.ArcanaExp = chkArcanaExp.Checked;
+                    data.AthleticsExp = chkAthleticsExp.Checked;
+                    data.DeceptionExp = chkDeceptionExp.Checked;
+                    data.HistoryExp = chkHistoryExp.Checked;
+                    data.InsightExp = chkInsightExp.Checked;
+                    data.IntimidationExp = chkIntimidationExp.Checked;
+                    data.InvestigationExp = chkInvestigationExp.Checked;
+                    data.MedicineExp = chkMedicineExp.Checked;
+                    data.NatureExp = chkNatureExp.Checked;
+                    data.PerformanceExp = chkPerformanceExp.Checked;
+                    data.PersuasionExp = chkPersuasionExp.Checked;
+                    data.ReligionExp = chkReligionExp.Checked;
+                    data.SleightExp = chkSleightOfHandExp.Checked;
+                    data.StealthExp = chkStealthExp.Checked;
+                    data.SurvivalExp = chkSurvivalExp.Checked;
+
+                    data.AcrobaticsProf = chkAcrobaticsProf.Checked;
+                    data.AnimalhandProf = chkAnimalHandProf.Checked;
+                    data.ArcanaProf = chkArcanaProf.Checked;
+                    data.AthleticsProf = chkAthleticsProf.Checked;
+                    data.DeceptionProf = chkDeceptionProf.Checked;
+                    data.HistoryProf = chkHistoryProf.Checked;
+                    data.InsightProf = chkInsightProf.Checked;
+                    data.IntimidationProf = chkIntimidationProf.Checked;
+                    data.InvestigationProf = chkInvestigationProf.Checked;
+                    data.MedicineProf = chkMedicineProf.Checked;
+                    data.NatureProf = chkNatureProf.Checked;
+                    data.PerformanceProf = chkPerformanceProf.Checked;
+                    data.PersuasionProf = chkPersuasionProf.Checked;
+                    data.ReligionProf = chkReligionProf.Checked;
+                    data.SleightProf = chkSleightOfHandProf.Checked;
+                    data.StealthProf = chkStealthProf.Checked;
+                    data.SurvivalProf = chkSurvivalProf.Checked;
+
+                    data.Jackofall = chkJackOfAll.Checked;
+                    data.Inspiration = chkInspiration.Checked;
+
+                    data.Deathfail1 = chkDeathFail1.Checked;
+                    data.Deathfail2 = chkDeathFail2.Checked;
+                    data.Deathfail3 = chkDeathFail3.Checked;
+                    data.Deathpass1 = chkDeathSuccess1.Checked;
+                    data.Deathpass2 = chkDeathSuccess2.Checked;
+                    data.Deathpass3 = chkDeathSuccess3.Checked;
+
+                    SaveXML.Save(data, input + ".xml");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+            }
+        }
+
+        private void btnLoad_Click(object sender, EventArgs e)
+        {
+
+            input = Microsoft.VisualBasic.Interaction.InputBox("Enter your character's name.", "Character Load", input, 0, 0);
+
+            if (File.Exists(input + ".xml"))
+            {
+                XmlSerializer xs = new XmlSerializer(typeof(SaveData));
+                FileStream read = new FileStream(input + ".xml", FileMode.Open, FileAccess.Read, FileShare.Read);
+                SaveData data = (SaveData)xs.Deserialize(read);
+
+                txtStr.Text = data.Str;
+                txtDex.Text = data.Dex;
+                txtCon.Text = data.Con;
+                txtInt.Text = data.Intel;
+                txtWis.Text = data.Wis;
+                txtCha.Text = data.Cha;
+
+                txtExperience.Text = data.Xp;
+                txtMaxHP.Text = data.Hpmax;
+                txtCurrentHP.Text = data.Hpcurrent;
+                txtTemporaryHP.Text = data.Hptemp;
+                txtHitDie.Text = data.Hitdie;
+                txtMaxHitDice.Text = data.Maxhitdie;
+                txtCurrentHitDice.Text = data.Curhitdie;
+
+                if (data.Caststat != "") cmbDCSave.SelectedItem = data.Caststat;
+                if (data.Armor != "") cmbArmor.SelectedItem = data.Armor;
+                txtMiscAC.Text = data.Armormisc;
+                txtLanguages.Text = data.Languages;
+                txtGear.Text = data.Gear;
+                txtProficiencies.Text = data.Proficiencies;
+
+                chkShield.Checked = data.Shield;
+
+                chkAcrobaticsExp.Checked = data.AcrobaticsExp;
+                chkAnimalHandExp.Checked = data.AnimalhandExp;
+                chkArcanaExp.Checked = data.ArcanaExp;
+                chkAthleticsExp.Checked = data.AthleticsExp;
+                chkDeceptionExp.Checked = data.DeceptionExp;
+                chkHistoryExp.Checked = data.HistoryExp;
+                chkInsightExp.Checked = data.InsightExp;
+                chkIntimidationExp.Checked = data.IntimidationExp;
+                chkInvestigationExp.Checked = data.InvestigationExp;
+                chkMedicineExp.Checked = data.MedicineExp;
+                chkNatureExp.Checked = data.NatureExp;
+                chkPerformanceExp.Checked = data.PerformanceExp;
+                chkPersuasionExp.Checked = data.PersuasionExp;
+                chkReligionExp.Checked = data.ReligionExp;
+                chkSleightOfHandExp.Checked = data.SleightExp;
+                chkStealthExp.Checked = data.StealthExp;
+                chkSurvivalExp.Checked = data.SurvivalExp;
+
+                chkAcrobaticsProf.Checked = data.AcrobaticsProf;
+                chkAnimalHandProf.Checked = data.AnimalhandProf;
+                chkArcanaProf.Checked = data.ArcanaProf;
+                chkAthleticsProf.Checked = data.AthleticsProf;
+                chkDeceptionProf.Checked = data.DeceptionProf;
+                chkHistoryProf.Checked = data.HistoryProf;
+                chkInsightProf.Checked = data.InsightProf;
+                chkIntimidationProf.Checked = data.IntimidationProf;
+                chkInvestigationProf.Checked = data.InvestigationProf;
+                chkMedicineProf.Checked = data.MedicineProf;
+                chkNatureProf.Checked = data.NatureProf;
+                chkPerformanceProf.Checked = data.PerformanceProf;
+                chkPersuasionProf.Checked = data.PersuasionProf;
+                chkReligionProf.Checked = data.ReligionProf;
+                chkSleightOfHandProf.Checked = data.SleightProf;
+                chkStealthProf.Checked = data.StealthProf;
+                chkSurvivalProf.Checked = data.SurvivalProf;
+
+                chkJackOfAll.Checked = data.Jackofall;
+                chkInspiration.Checked = data.Inspiration;
+
+                chkDeathFail1.Checked = data.Deathfail1;
+                chkDeathFail2.Checked = data.Deathfail2;
+                chkDeathFail3.Checked = data.Deathfail3;
+                chkDeathSuccess1.Checked = data.Deathpass1;
+                chkDeathSuccess2.Checked = data.Deathpass2;
+                chkDeathSuccess3.Checked = data.Deathpass3;
+            }
         }
     }
 }

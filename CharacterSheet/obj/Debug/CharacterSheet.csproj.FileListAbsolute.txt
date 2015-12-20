@@ -67,3 +67,16 @@ C:\Users\PancakeFriday\Desktop\CharacterSheet3\CharacterSheet\obj\Debug\Characte
 \\Client\C$\Users\bahoward\Downloads\FinalProject\FinalProject\CharacterSheet\bin\Debug\CharacterSheet.exe.config
 \\Client\C$\Users\bahoward\Downloads\FinalProject\FinalProject\CharacterSheet\obj\Debug\CharacterSheet.exe
 \\Client\C$\Users\bahoward\Downloads\FinalProject\FinalProject\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmCharacterSheet.resources
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.RaceSelection.resources
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.frmDiceGenerator.resources
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.SpellTome.resources
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\bahoward\Documents\projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.CreateSaveName.resources
