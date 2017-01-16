@@ -7,58 +7,64 @@
   <Wis>11</Wis>
   <Cha>10</Cha>
   <Xp>20000</Xp>
-  <Hpmax />
-  <Hpcurrent />
-  <Hptemp />
-  <Hitdie />
-  <Maxhitdie />
-  <Curhitdie />
+  <Hpmax>120</Hpmax>
+  <Hpcurrent>13</Hpcurrent>
+  <Hptemp>12</Hptemp>
+  <Hitdie>8</Hitdie>
+  <Maxhitdie>13</Maxhitdie>
+  <Curhitdie>13</Curhitdie>
+  <Caststat>Wisdom</Caststat>
   <Armor>Leather</Armor>
   <Armormisc>2</Armormisc>
   <Languages>Elven, Dwarvish</Languages>
-  <Gear />
-  <Proficiencies />
+  <Gear>Pizza Sweater</Gear>
+  <Proficiencies>Eating,
+Sleeping, 
+         
+Napping</Proficiencies>
   <Shield>true</Shield>
-  <AcrobaticsExp>false</AcrobaticsExp>
-  <AnimalhandExp>false</AnimalhandExp>
-  <ArcanaExp>false</ArcanaExp>
-  <AthleticsExp>false</AthleticsExp>
-  <DeceptionExp>false</DeceptionExp>
-  <HistoryExp>false</HistoryExp>
-  <InsightExp>false</InsightExp>
+  <AcrobaticsExp>true</AcrobaticsExp>
+  <AnimalhandExp>true</AnimalhandExp>
+  <ArcanaExp>true</ArcanaExp>
+  <AthleticsExp>true</AthleticsExp>
+  <DeceptionExp>true</DeceptionExp>
+  <HistoryExp>true</HistoryExp>
+  <InsightExp>true</InsightExp>
   <IntimidationExp>true</IntimidationExp>
-  <InvestigationExp>false</InvestigationExp>
-  <MedicineExp>false</MedicineExp>
-  <NatureExp>false</NatureExp>
-  <PerformanceExp>false</PerformanceExp>
-  <PersuasionExp>false</PersuasionExp>
-  <ReligionExp>false</ReligionExp>
-  <SleightExp>false</SleightExp>
-  <StealthExp>false</StealthExp>
-  <SurvivalExp>false</SurvivalExp>
+  <InvestigationExp>true</InvestigationExp>
+  <MedicineExp>true</MedicineExp>
+  <NatureExp>true</NatureExp>
+  <PerceptionExp>true</PerceptionExp>
+  <PerformanceExp>true</PerformanceExp>
+  <PersuasionExp>true</PersuasionExp>
+  <ReligionExp>true</ReligionExp>
+  <SleightExp>true</SleightExp>
+  <StealthExp>true</StealthExp>
+  <SurvivalExp>true</SurvivalExp>
   <AcrobaticsProf>true</AcrobaticsProf>
-  <AnimalhandProf>false</AnimalhandProf>
-  <ArcanaProf>false</ArcanaProf>
-  <AthleticsProf>false</AthleticsProf>
-  <DeceptionProf>false</DeceptionProf>
-  <HistoryProf>false</HistoryProf>
-  <InsightProf>false</InsightProf>
+  <AnimalhandProf>true</AnimalhandProf>
+  <ArcanaProf>true</ArcanaProf>
+  <AthleticsProf>true</AthleticsProf>
+  <DeceptionProf>true</DeceptionProf>
+  <HistoryProf>true</HistoryProf>
+  <InsightProf>true</InsightProf>
   <IntimidationProf>true</IntimidationProf>
-  <InvestigationProf>false</InvestigationProf>
-  <MedicineProf>false</MedicineProf>
-  <NatureProf>false</NatureProf>
-  <PerformanceProf>false</PerformanceProf>
-  <PersuasionProf>false</PersuasionProf>
-  <ReligionProf>false</ReligionProf>
-  <SleightProf>false</SleightProf>
-  <StealthProf>false</StealthProf>
+  <InvestigationProf>true</InvestigationProf>
+  <MedicineProf>true</MedicineProf>
+  <NatureProf>true</NatureProf>
+  <PerceptionProf>true</PerceptionProf>
+  <PerformanceProf>true</PerformanceProf>
+  <PersuasionProf>true</PersuasionProf>
+  <ReligionProf>true</ReligionProf>
+  <SleightProf>true</SleightProf>
+  <StealthProf>true</StealthProf>
   <SurvivalProf>true</SurvivalProf>
   <Jackofall>true</Jackofall>
-  <Inspiration>false</Inspiration>
+  <Inspiration>true</Inspiration>
   <Deathpass1>true</Deathpass1>
   <Deathpass2>true</Deathpass2>
-  <Deathpass3>false</Deathpass3>
-  <Deathfail1>false</Deathfail1>
-  <Deathfail2>false</Deathfail2>
-  <Deathfail3>false</Deathfail3>
+  <Deathpass3>true</Deathpass3>
+  <Deathfail1>true</Deathfail1>
+  <Deathfail2>true</Deathfail2>
+  <Deathfail3>true</Deathfail3>
 </SaveData>

@@ -1278,6 +1278,7 @@ namespace CharacterSheet
                     data.InvestigationExp = chkInvestigationExp.Checked;
                     data.MedicineExp = chkMedicineExp.Checked;
                     data.NatureExp = chkNatureExp.Checked;
+                    data.PerceptionExp = chkPerceptionExp.Checked;
                     data.PerformanceExp = chkPerformanceExp.Checked;
                     data.PersuasionExp = chkPersuasionExp.Checked;
                     data.ReligionExp = chkReligionExp.Checked;
@@ -1296,6 +1297,7 @@ namespace CharacterSheet
                     data.InvestigationProf = chkInvestigationProf.Checked;
                     data.MedicineProf = chkMedicineProf.Checked;
                     data.NatureProf = chkNatureProf.Checked;
+                    data.PerceptionProf = chkPerceptionProf.Checked;
                     data.PerformanceProf = chkPerformanceProf.Checked;
                     data.PersuasionProf = chkPersuasionProf.Checked;
                     data.ReligionProf = chkReligionProf.Checked;
@@ -1321,6 +1323,10 @@ namespace CharacterSheet
                 }
             }
         }
+
+        /********************************************
+        * Loading feature. Takes an xml file and deserializes it.
+        *********************************************/
 
         private void btnLoad_Click(object sender, EventArgs e)
         {
@@ -1368,6 +1374,7 @@ namespace CharacterSheet
                 chkInvestigationExp.Checked = data.InvestigationExp;
                 chkMedicineExp.Checked = data.MedicineExp;
                 chkNatureExp.Checked = data.NatureExp;
+                chkPerceptionExp.Checked = data.PerceptionExp;
                 chkPerformanceExp.Checked = data.PerformanceExp;
                 chkPersuasionExp.Checked = data.PersuasionExp;
                 chkReligionExp.Checked = data.ReligionExp;
@@ -1386,6 +1393,7 @@ namespace CharacterSheet
                 chkInvestigationProf.Checked = data.InvestigationProf;
                 chkMedicineProf.Checked = data.MedicineProf;
                 chkNatureProf.Checked = data.NatureProf;
+                chkPerceptionProf.Checked = data.PerceptionProf;
                 chkPerformanceProf.Checked = data.PerformanceProf;
                 chkPersuasionProf.Checked = data.PersuasionProf;
                 chkReligionProf.Checked = data.ReligionProf;
@@ -1402,6 +1410,9 @@ namespace CharacterSheet
                 chkDeathSuccess1.Checked = data.Deathpass1;
                 chkDeathSuccess2.Checked = data.Deathpass2;
                 chkDeathSuccess3.Checked = data.Deathpass3;
+
+                Text = input;
+                read.Close();
             }
         }
     }

@@ -43,6 +43,7 @@ namespace CharacterSheet
         private bool investigationExp;
         private bool medicineExp;
         private bool natureExp;
+        private bool perceptionExp;
         private bool performanceExp;
         private bool persuasionExp;
         private bool religionExp;
@@ -61,6 +62,7 @@ namespace CharacterSheet
         private bool investigationProf;
         private bool medicineProf;
         private bool natureProf;
+        private bool perceptionProf;
         private bool performanceProf;
         private bool persuasionProf;
         private bool religionProf;
@@ -208,6 +210,11 @@ namespace CharacterSheet
             get { return natureExp; }
             set { natureExp = value; }
         }
+        public bool PerceptionExp
+        {
+            get { return perceptionExp; }
+            set { perceptionExp = value; }
+        }
         public bool PerformanceExp{
             get { return performanceExp; }
             set { performanceExp = value; }
@@ -287,6 +294,11 @@ namespace CharacterSheet
         {
             get { return natureProf; }
             set { natureProf = value; }
+        }
+        public bool PerceptionProf
+        {
+            get { return perceptionProf; }
+            set { perceptionProf = value; }
         }
         public bool PerformanceProf
         {

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Str>20</Str>
+  <Dex>18</Dex>
+  <Con>23</Con>
+  <Intel>15</Intel>
+  <Wis>12</Wis>
+  <Cha>11</Cha>
+  <Xp>200000</Xp>
+  <Hpmax />
+  <Hpcurrent />
+  <Hptemp />
+  <Hitdie />
+  <Maxhitdie />
+  <Curhitdie />
+  <Caststat>Charisma</Caststat>
+  <Armor>Scale Mail</Armor>
+  <Armormisc>2</Armormisc>
+  <Languages>Elven</Languages>
+  <Gear>Pizza Sweater</Gear>
+  <Proficiencies />
+  <Shield>true</Shield>
+  <AcrobaticsExp>false</AcrobaticsExp>
+  <AnimalhandExp>false</AnimalhandExp>
+  <ArcanaExp>false</ArcanaExp>
+  <AthleticsExp>false</AthleticsExp>
+  <DeceptionExp>false</DeceptionExp>
+  <HistoryExp>false</HistoryExp>
+  <InsightExp>false</InsightExp>
+  <IntimidationExp>false</IntimidationExp>
+  <InvestigationExp>true</InvestigationExp>
+  <MedicineExp>false</MedicineExp>
+  <NatureExp>false</NatureExp>
+  <PerceptionExp>false</PerceptionExp>
+  <PerformanceExp>false</PerformanceExp>
+  <PersuasionExp>false</PersuasionExp>
+  <ReligionExp>true</ReligionExp>
+  <SleightExp>false</SleightExp>
+  <StealthExp>false</StealthExp>
+  <SurvivalExp>false</SurvivalExp>
+  <AcrobaticsProf>true</AcrobaticsProf>
+  <AnimalhandProf>false</AnimalhandProf>
+  <ArcanaProf>false</ArcanaProf>
+  <AthleticsProf>false</AthleticsProf>
+  <DeceptionProf>false</DeceptionProf>
+  <HistoryProf>false</HistoryProf>
+  <InsightProf>false</InsightProf>
+  <IntimidationProf>false</IntimidationProf>
+  <InvestigationProf>true</InvestigationProf>
+  <MedicineProf>false</MedicineProf>
+  <NatureProf>false</NatureProf>
+  <PerceptionProf>false</PerceptionProf>
+  <PerformanceProf>false</PerformanceProf>
+  <PersuasionProf>true</PersuasionProf>
+  <ReligionProf>true</ReligionProf>
+  <SleightProf>false</SleightProf>
+  <StealthProf>false</StealthProf>
+  <SurvivalProf>false</SurvivalProf>
+  <Jackofall>true</Jackofall>
+  <Inspiration>false</Inspiration>
+  <Deathpass1>true</Deathpass1>
+  <Deathpass2>true</Deathpass2>
+  <Deathpass3>true</Deathpass3>
+  <Deathfail1>false</Deathfail1>
+  <Deathfail2>false</Deathfail2>
+  <Deathfail3>false</Deathfail3>
+</SaveData>
